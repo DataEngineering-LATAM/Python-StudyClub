@@ -1,6 +1,6 @@
 # Python-StudyClub Data Engineering Latam 🐍
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Python_10.png)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DataEngineering-LATAM/Python-StudyClub)
 ![GitHub forks](https://img.shields.io/github/forks/DataEngineering-LATAM/Python-StudyClub?style=social)
