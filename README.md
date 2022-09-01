@@ -1,11 +1,11 @@
-<center> # Python-StudyClub Data Engineering Latam 🐍 </center>
+# Python-StudyClub Data Engineering Latam 🐍
 
 ![GitHub contributors](https://img.shields.io/github/contributors/DataEngineering-LATAM/Python-StudyClub)
 ![GitHub forks](https://img.shields.io/github/forks/DataEngineering-LATAM/Python-StudyClub?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/DataEngineering-LATAM/Python-StudyClub?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/DataEngineering-LATAM/Python-StudyClub?style=social)
 
-![](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Python_10.png)
+![](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Python_10.png#center)
 
 Bienvenidos al Grupo Python 🐍 de la Comunidad Data Engineering Latam 😊 más grande y chévere.
 
