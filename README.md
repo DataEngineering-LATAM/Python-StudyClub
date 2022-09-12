@@ -15,4 +15,4 @@ Los talleres de Python, están enfocados desde el nivel básico hasta llegar a i
 
 [Worshop Python # 1: Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
 
-[Worshop Python # 2: Tipos y Estructura de datos](index.html)
+[Worshop Python # 2: Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Tipos%20y%20Estructuras%20de%20Python.ipynb)
