@@ -13,4 +13,4 @@ Temporada de Python 🐍 inicia Septiembre 7 todos los Lunes a las 20:00 horas G
 
 Los talleres de Python, están enfocados desde el nivel básico hasta llegar a interactuar con las principales librerías Numpy y Pandas para avanzar en la  carrera de Data Science 👨‍💻👩🏼‍💻👨🏿‍💻
 
-[Worshop Python # 1: Primeros pasos Hola Mundo]([index.html](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb))
+[Worshop Python # 1: Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
