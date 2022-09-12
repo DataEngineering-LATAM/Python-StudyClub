@@ -9,10 +9,34 @@
 
 Bienvenidos al Grupo Python 🐍 de la Comunidad Data Engineering Latam 😊 más grande y chévere.
 
+Grupo de [Telegram](https://t.me/dataengineeringlatam_python) para compartir sus dudas, comentarios y todo lo relacionado a Python 🐍
+
 Temporada de Python 🐍 inicia Septiembre 7 todos los Lunes a las 20:00 horas GMT-5 🎯
 
 Los talleres de Python, están enfocados desde el nivel básico hasta llegar a interactuar con las principales librerías Numpy y Pandas para avanzar en la  carrera de Data Science 👨‍💻👩🏼‍💻👨🏿‍💻
 
+Cada sesión es grabada [Canal de Youtube](https://youtube.com/c/dataengineeringlatam) suscribete, dale like, comenta y comparte.
+
+## Plan de estudio:
+
 [Worshop Python # 1: Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
 
 [Worshop Python # 2: Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Tipos%20y%20Estructuras%20de%20Python.ipynb)
+
+[Worshop Python # 3: Estructuras de Control](#)
+
+[Worshop Python # 4: Funciones](#)
+
+[Worshop Python # 5: Operadores](#)
+
+[Worshop Python # 6: Programación Orientada a Objetos](#)
+
+[Worshop Python # 7: Excepciones](#)
+
+[Worshop Python # 8: Módulos](#)
+
+[Worshop Python # 9: Práctica](#)
+
+[Worshop Python # 10: Librería Numpy](#)
+
+[Worshop Python # 11: Librería Pnadas](#)
