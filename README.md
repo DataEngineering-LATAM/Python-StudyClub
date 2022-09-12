@@ -9,7 +9,7 @@
 
 Bienvenidos al Grupo Python 🐍 de la Comunidad Data Engineering Latam 😊 más grande y chévere.
 
-Temporada de Python 🐍 inicia Septiembre 7 todos los Miércoles a las 20:00 horas GMT-5 🎯
+Temporada de Python 🐍 inicia Septiembre 7 todos los Lunes a las 20:00 horas GMT-5 🎯
 
 Los talleres de Python, están enfocados desde el nivel básico hasta llegar a interactuar con las principales librerías Numpy y Pandas para avanzar en la  carrera de Data Science 👨‍💻👩🏼‍💻👨🏿‍💻
 
