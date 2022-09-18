@@ -17,7 +17,7 @@ Los talleres de Python, están enfocados desde el nivel básico hasta llegar a i
 
 Cada sesión es grabada [Canal de Youtube](https://youtube.com/c/dataengineeringlatam) suscribete, dale like, comenta y comparte.
 
-## Plan de estudio:
+## Temas de cada Worshop:
 
 [Worshop Python # 1: Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
 
