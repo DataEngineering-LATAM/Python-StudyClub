@@ -35,8 +35,6 @@ Cada sesión es grabada [Canal de Youtube](https://youtube.com/c/dataengineering
 
 [Worshop Python # 8: Módulos](#)
 
-[Worshop Python # 9: Práctica](#)
+[Worshop Python # 9: Librería Numpy](#)
 
-[Worshop Python # 10: Librería Numpy](#)
-
-[Worshop Python # 11: Librería Pnadas](#)
+[Worshop Python # 10: Librería Pnadas](#)
