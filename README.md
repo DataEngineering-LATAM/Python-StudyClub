@@ -25,7 +25,7 @@ Cada sesión es grabada [Canal de Youtube](https://youtube.com/c/dataengineering
 
 [Worshop Python # 3: Estructuras de Control](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Estructuras_de_Control.ipynb)
 
-[Worshop Python # 4: Funciones](#)
+[Worshop Python # 4: Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
 
 [Worshop Python # 5: Operadores](#)
 
