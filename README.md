@@ -27,7 +27,7 @@ Cada sesión es grabada [Canal de Youtube](https://youtube.com/c/dataengineering
 
 [Worshop Python # 4: Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
 
-[Worshop Python # 5: Operadores](#)
+[Worshop Python # 5: Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/plantilla_-_Taller_Operadores_-_Python.ipynb)
 
 [Worshop Python # 6: Programación Orientada a Objetos](#)
 
