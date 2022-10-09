@@ -21,11 +21,15 @@ Cada sesión es grabada :video_camera: [Canal de Youtube](https://youtube.com/c/
 
 Worshop Python # 1: [Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
 
-> [Sesión en vivo](https://www.youtube.com/watch?v=vN-gidKPFMo&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
+> [Video de la sesión](https://www.youtube.com/watch?v=vN-gidKPFMo&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
 
 Worshop Python # 2: [Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Tipos%20y%20Estructuras%20de%20Python.ipynb)
 
+> [Video de la sesión](https://www.youtube.com/watch?v=dGv2rOgwNEA&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z&index=2)
+
 Worshop Python # 3: [Estructuras de Control](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Estructuras_de_Control.ipynb)
+
+> [Video de la sesión](https://www.youtube.com/watch?v=hT160XTQpG0&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z&index=3)
 
 Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
 
