@@ -43,4 +43,4 @@ Worshop Python # 8: [Módulos](#)
 
 Worshop Python # 9: [Librería Numpy](#)
 
-Worshop Python # 10: [Librería Pnadas](#)
+Worshop Python # 10: [Librería Pandas](#)
