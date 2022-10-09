@@ -15,26 +15,28 @@ Temporada de Python 🐍 inicia Septiembre 7 todos los Lunes a las 20:00 horas G
 
 Los talleres de Python, están enfocados desde el nivel básico hasta llegar a interactuar con las principales librerías Numpy y Pandas para avanzar en la  carrera de Data Science 👨‍💻👩🏼‍💻👨🏿‍💻
 
-Cada sesión es grabada [Canal de Youtube](https://youtube.com/c/dataengineeringlatam) suscribete, dale like, comenta y comparte.
+Cada sesión es grabada :video_camera: [Canal de Youtube](https://youtube.com/c/dataengineeringlatam) suscribete, dale like, comenta y comparte.
 
 ## Temas de cada Worshop:
 
-[Worshop Python # 1: Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
+Worshop Python # 1: [Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
 
-[Worshop Python # 2: Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Tipos%20y%20Estructuras%20de%20Python.ipynb)
+> [Sesión en vivo](https://www.youtube.com/watch?v=vN-gidKPFMo&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
 
-[Worshop Python # 3: Estructuras de Control](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Estructuras_de_Control.ipynb)
+Worshop Python # 2: [Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Tipos%20y%20Estructuras%20de%20Python.ipynb)
 
-[Worshop Python # 4: Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
+Worshop Python # 3: [Estructuras de Control](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Estructuras_de_Control.ipynb)
 
-[Worshop Python # 5: Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/plantilla_-_Taller_Operadores_-_Python.ipynb)
+Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
 
-[Worshop Python # 6: Programación Orientada a Objetos](#)
+Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/plantilla_-_Taller_Operadores_-_Python.ipynb)
 
-[Worshop Python # 7: Excepciones](#)
+Worshop Python # 6: [Programación Orientada a Objetos](#)
 
-[Worshop Python # 8: Módulos](#)
+Worshop Python # 7: [Excepciones](#)
 
-[Worshop Python # 9: Librería Numpy](#)
+Worshop Python # 8: [Módulos](#)
 
-[Worshop Python # 10: Librería Pnadas](#)
+Worshop Python # 9: [Librería Numpy](#)
+
+Worshop Python # 10: [Librería Pnadas](#)
