@@ -36,7 +36,7 @@ Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-
 
 Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/plantilla_-_Taller_Operadores_-_Python.ipynb)
 
-Worshop Python # 6: [Programación Orientada a Objetos](#)
+Worshop Python # 6: [Programación Orientada a Objetos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/POO.ipynb)
 
 Worshop Python # 7: [Excepciones](#)
 
