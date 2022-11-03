@@ -40,15 +40,16 @@ Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python
 
 > [Video de la sesión](https://youtu.be/4cSi-5mIKqQ)
 
-Worshop Python # 6: [Programación Orientada a Objetos](#)
+Worshop Python # 6: [Excepciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/7_Excepciones.ipynb)
 
-Worshop Python # 7: [Excepciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/7_Excepciones.ipynb)
+Worshop Python # 7: [Módulos](#)
 
-Worshop Python # 8: [Módulos](#)
+Worshop Python # 8: [Librería Numpy](#)
 
-Worshop Python # 9: [Librería Numpy](#)
+Worshop Python # 9: [Librería Pandas](#)
 
-Worshop Python # 10: [Librería Pandas](#)
+Worshop Python # 10: [Programación Orientada a Objetos](#)
+
 
 ## Sobre la comunidad de Data Engineering Latam
 
