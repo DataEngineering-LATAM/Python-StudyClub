@@ -34,11 +34,15 @@ Worshop Python # 3: [Estructuras de Control](https://github.com/DataEngineering-
 
 Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
 
+> [Video de la sesión](https://youtu.be/49RajRnidow)
+
 Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/plantilla_-_Taller_Operadores_-_Python.ipynb)
+
+> [Video de la sesión](https://youtu.be/4cSi-5mIKqQ)
 
 Worshop Python # 6: [Programación Orientada a Objetos](#)
 
-Worshop Python # 7: [Excepciones](#)
+Worshop Python # 7: [Excepciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/7_Excepciones.ipynb)
 
 Worshop Python # 8: [Módulos](#)
 
