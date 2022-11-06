@@ -24,7 +24,7 @@ Worshop Python # 1: [Primeros pasos Hola Mundo](https://github.com/DataEngineeri
 
 > [Video de la sesión](https://www.youtube.com/watch?v=vN-gidKPFMo&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
 
-Worshop Python # 2: [Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Tipos%20y%20Estructuras%20de%20Python.ipynb)
+Worshop Python # 2: [Tipos y Estructura de datos](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%202:%20Tipos%20y%20Estructura%20de%20datos/Tipos%20y%20Estructuras%20de%20Python.ipynb)
 
 > [Video de la sesión](https://www.youtube.com/watch?v=dGv2rOgwNEA&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z&index=2)
 
