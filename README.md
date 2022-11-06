@@ -42,7 +42,7 @@ Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python
 
 Worshop Python # 6: [Excepciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/7_Excepciones.ipynb)
 
-Worshop Python # 7: [Módulos](#)
+Worshop Python # 7: [Ficheros](#)
 
 Worshop Python # 8: [Librería Numpy](#)
 
