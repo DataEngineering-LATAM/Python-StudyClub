@@ -40,7 +40,7 @@ Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python
 
 > [Video de la sesión](https://youtu.be/4cSi-5mIKqQ)
 
-Worshop Python # 6: [Excepciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/7_Excepciones.ipynb)
+Worshop Python # 6: [Excepciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%206:%20Excepciones/7_Excepciones.ipynb)
 
 Worshop Python # 7: [Ficheros](https://github.com/DataEngineering-LATAM/Python-StudyClub/tree/main/Worshop%20Python%20%23%207:%20Ficheros)
 
