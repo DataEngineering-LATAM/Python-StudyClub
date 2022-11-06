@@ -20,7 +20,7 @@ Cada sesión es grabada :video_camera: [Canal de Youtube](https://youtube.com/c/
 
 ## Temas de cada Worshop:
 
-Worshop Python # 1: [Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/1_Mi_primer_programa_py_DEL.ipynb)
+Worshop Python # 1: [Primeros pasos Hola Mundo](https://github.com/DataEngineering-LATAM/Python-StudyClub/tree/main/Worshop%20Python%20%23%201:%20Primeros%20pasos%20Hola%20Mundo)
 
 > [Video de la sesión](https://www.youtube.com/watch?v=vN-gidKPFMo&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
 
