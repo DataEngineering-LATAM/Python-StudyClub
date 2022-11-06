@@ -36,7 +36,7 @@ Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-
 
 > [Video de la sesión](https://youtu.be/49RajRnidow)
 
-Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/plantilla_-_Taller_Operadores_-_Python.ipynb)
+Worshop Python # 5: [Operadores](https://github.com/DataEngineering-LATAM/Python-StudyClub/tree/main/Worshop%20Python%20%23%205:%20Operadores)
 
 > [Video de la sesión](https://youtu.be/4cSi-5mIKqQ)
 
