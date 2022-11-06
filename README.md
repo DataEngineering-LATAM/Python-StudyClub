@@ -32,7 +32,7 @@ Worshop Python # 3: [Estructuras de Control](https://github.com/DataEngineering-
 
 > [Video de la sesión](https://www.youtube.com/watch?v=hT160XTQpG0&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z&index=3)
 
-Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Funciones_en_Python.ipynb)
+Worshop Python # 4: [Funciones](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%204:%20Funciones/Funciones_en_Python.ipynb)
 
 > [Video de la sesión](https://youtu.be/49RajRnidow)
 
