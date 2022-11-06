@@ -28,7 +28,7 @@ Worshop Python # 2: [Tipos y Estructura de datos](https://github.com/DataEnginee
 
 > [Video de la sesión](https://www.youtube.com/watch?v=dGv2rOgwNEA&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z&index=2)
 
-Worshop Python # 3: [Estructuras de Control](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Estructuras_de_Control.ipynb)
+Worshop Python # 3: [Estructuras de Control](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%203:%20Estructuras%20de%20Control/Estructuras_de_Control.ipynb)
 
 > [Video de la sesión](https://www.youtube.com/watch?v=hT160XTQpG0&list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z&index=3)
 
