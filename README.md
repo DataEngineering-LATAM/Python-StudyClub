@@ -48,9 +48,6 @@ Worshop Python # 8: [Librería Numpy](#)
 
 Worshop Python # 9: [Librería Pandas](#)
 
-Worshop Python # 10: [Programación Orientada a Objetos](#)
-
-
 ## Sobre la comunidad de Data Engineering Latam
 
 Data Engineering Latam es la comunidad de datos más grande de América Latina cuya misión es promover el talento de la región a través de la difusión de charlas, talleres, grupos de estudio, ayuda colaborativa y la creación de contenido relevante.
