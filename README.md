@@ -44,7 +44,7 @@ Worshop Python # 6: [Excepciones](https://github.com/DataEngineering-LATAM/Pytho
 
 Worshop Python # 7: [Ficheros](https://github.com/DataEngineering-LATAM/Python-StudyClub/tree/main/Worshop%20Python%20%23%207:%20Ficheros)
 
-Worshop Python # 8: [Librería Numpy](#)
+Worshop Python # 8: [Librería Numpy](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%208:%20Numpy/Ejercicio_python.ipynb)
 
 Worshop Python # 9: [Librería Pandas](#)
 
