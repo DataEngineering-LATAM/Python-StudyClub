@@ -46,7 +46,7 @@ Worshop Python # 7: [Ficheros](https://github.com/DataEngineering-LATAM/Python-S
 
 Worshop Python # 8: [Librería Numpy](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%208:%20Numpy/Ejercicio_python.ipynb)
 
-Worshop Python # 9: [Librería Pandas](#)
+Worshop Python # 9: [Librería Pandas](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%209:%20Pandas/python_pandas_with_pokemon_dataset.ipynb)
 
 ## Sobre la comunidad de Data Engineering Latam
 
