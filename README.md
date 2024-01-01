@@ -48,9 +48,14 @@ Worshop Python # 7: [Ficheros](https://github.com/DataEngineering-LATAM/Python-S
 
 > [Video de la sesión](https://youtu.be/0-PgB4faPO0)
 
-Worshop Python # 8: [Librería Numpy](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%208:%20Numpy/Ejercicio_python.ipynb)
+Worshop Python # 8: [Numpy para Data Scientists](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%208:%20Numpy/Ejercicio_python.ipynb)
+> [Video de la sesión](https://youtu.be/kgbGWSdzI70?list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
 
-Worshop Python # 9: [Librería Pandas](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%209:%20Pandas/python_pandas_with_pokemon_dataset.ipynb)
+Worshop Python # 10: [Manipulación de datos con Pandas](https://github.com/DataEngineering-LATAM/Python-StudyClub/blob/main/Worshop%20Python%20%23%209:%20Pandas/python_pandas_with_pokemon_dataset.ipynb)
+> [Video de la sesión](https://youtu.be/WE3lS0UlQ9c?list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
+
+Worshop Python # 11: Test y Documentación
+> [Video de la sesión](https://youtu.be/Wzld5dL1uk0?list=PLdxuOh58KNA4qIMg1EaOF6oALL5SvnA-z)
 
 ## Sobre la comunidad de Data Engineering Latam
 
